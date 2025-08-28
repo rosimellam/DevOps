@@ -1,0 +1,16 @@
+/* style.css */
+body {
+    background-color: #f0f0f0;
+    font-family: Arial, sans-serif;
+    color: #333;
+    text-align: center;
+    padding: 50px;
+}
+
+h1 {
+    color: #0077cc;
+}
+
+p {
+    font-size: 18px;
+}
